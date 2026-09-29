@@ -1,4 +1,4 @@
-- # Hi, I'm Yash Medhe 👋
+# Hi, I'm Yash Medhe 👋
 
 I'm a product professional focused on enterprise SaaS, AI-assisted workflows, and third-party risk management. My experience at GEP spans procurement and risk products, from requirements and UX collaboration through Agile delivery, UAT, release readiness, and product metrics.
 
